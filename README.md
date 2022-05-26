@@ -14,7 +14,7 @@ $ pip install mechanize
 $ pip install bs4
 $ pkg install git
 $ git clone https://github.com/BD-MRZ-KING/Green-LoveR
-$ cd Greeen-LoveR
+$ cd Green-LoveR
 $ python all-ok.py
 
 Note: (This Tools Are free , So You To Use MRZ Green-LoveR Tools Enjoy)
@@ -28,5 +28,5 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip instal
 ```
 
  Note: (This Tools Are Free , So You Need  To Use MRZ Green-LoveR Tools Enjoy)</br>
- [![Facebook](https://www.facebook.com/NIKI.CYBER404.OFFICERS)</br>
+ [![Facebook](https://www.facebook.com/jamal.Vau.king.Of.bdcyberzone4)</br>
  [CODED BY Md.Zakirul Islam]
