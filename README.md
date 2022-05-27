@@ -13,6 +13,8 @@ $ pip install requests
 $ pip install mechanize
 $ pip install bs4
 $ pkg install git
+$ ls
+$ rm -rf Green-LoveR
 $ git clone https://github.com/BD-MRZ-KING/Green-LoveR
 $ cd Green-LoveR
 $ python all-ok.py
